@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyAdoNetApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0356405af1b586600b288a6c6ee94cd77052d5a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20cd806e2bd77202df58887904ef758fb64dc10a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyAdoNetApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyAdoNetApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
