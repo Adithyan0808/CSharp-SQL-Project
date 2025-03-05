@@ -3,7 +3,8 @@
   "image": "mcr.microsoft.com/dotnet/sdk:6.0",
   "features": {
     "ghcr.io/devcontainers/features/sqlserver:1": {
-      "acceptEula": "Y"
+      "acceptEula": "Y",
+      "saPassword": "MySecurePassword123!"
     }
   },
   "forwardPorts": [5000, 1433],
